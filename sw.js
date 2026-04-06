@@ -52,8 +52,8 @@ self.addEventListener('push', (event) => {
   event.waitUntil(
     self.registration.showNotification(data.title, {
       body: data.body,
-      icon: BASE + '/icon-192x192.png',
-      badge: BASE + '/icon-72x72.png',
+      icon: BASE + './assets/icon-192x192.png',
+      badge: BASE + './assets/icon-72x72.png',
       tag: data.tag || 'leveluplife',
       vibrate: [200, 100, 200],
     })
