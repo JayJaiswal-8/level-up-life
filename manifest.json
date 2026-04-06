@@ -2,8 +2,8 @@
   "name": "Level Up Life",
   "short_name": "LevelUpLife",
   "description": "Self Growth. Gamified.",
-  "start_url": "/level-up-life/",
-  "scope": "/level-up-life/",
+  "start_url": "/assets/",
+  "scope": "/assets/",
   "display": "standalone",
   "display_override": [
     "standalone",
@@ -22,61 +22,61 @@
   ],
   "icons": [
     {
-      "src": "/level-up-lifeicon-72x72.png",
+      "src": "/assetsicon-72x72.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/level-up-lifeicon-96x96.png",
+      "src": "/assetsicon-96x96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/level-up-lifeicon-128x128.png",
+      "src": "/assetsicon-128x128.png",
       "sizes": "128x128",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/level-up-lifeicon-144x144.png",
+      "src": "/assetsicon-144x144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/level-up-lifeicon-152x152.png",
+      "src": "/assetsicon-152x152.png",
       "sizes": "152x152",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/level-up-lifeicon-167x167.png",
+      "src": "/assetsicon-167x167.png",
       "sizes": "167x167",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/level-up-lifeicon-180x180.png",
+      "src": "/assetsicon-180x180.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/level-up-lifeicon-192x192.png",
+      "src": "/assetsicon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/level-up-lifeicon-384x384.png",
+      "src": "/assetsicon-384x384.png",
       "sizes": "384x384",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/level-up-lifeicon-512x512.png",
+      "src": "/assetsicon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
